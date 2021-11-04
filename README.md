@@ -1,8 +1,14 @@
-### Opa! Eu sou o Pietro Kucharski
-<div align="center">
+### Opa! Me chamo Pietro Kucharski e este é meu perfil no GitHub
+
+- Atualemente não estou trabalhando na área
+- Estou estudando Java e Python
+- Email de contato: pietrokucharski@hotmail.com
+
+
+<div align="">
   <a href="https://github.com/PietroKucharski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroKucharski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pietro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -18,9 +24,3 @@
   <a href="https://www.linkedin.com/in/pietro-kucharski-4b624b1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pietrokucharski@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank"></a>
 </div>
-
-  
-- 🔭 Atualemente não estou trabalhando na área
-- 🌱 Estou estudando Java e Python
-- 📫 Email de contato: pietrokucharski@hotmail.com
-- 😄 Pronouns: ele/dele
