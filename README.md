@@ -1,10 +1,4 @@
 ### Opa! Me chamo Pietro Kucharski e este é meu perfil no GitHub
-
-- Atualemente não estou trabalhando na área
-- Estou estudando Java e Python
-- Email de contato: pietrokucharski@hotmail.com
-
-
 <div align="center">
   <a href="https://github.com/PietroKucharski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroKucharski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
