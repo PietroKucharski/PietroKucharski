@@ -1,4 +1,4 @@
-### Opa! Me chamo Pietro Kucharski e este é meu perfil no GitHub
+### Ola me chamo Pietro Kucharski sou jogador de futebol americano e programador em constante desenvolvimento
 
 <div align="center">
   <a href="https://github.com/PietroKucharski">
