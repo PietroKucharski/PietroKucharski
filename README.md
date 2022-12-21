@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/PietroKucharski">
-  <img height="180em" width="210em" src="https://github-readme-stats.vercel.app/api?username=PietroKucharski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=PietroKucharski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pietro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
