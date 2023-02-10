@@ -1,4 +1,4 @@
-### Ola me chamo Pietro Kucharski sou programador junior e estou em constante desenvolvimento
+### Ola me chamo Pietro Kucharski sou programador junior e estou em busca de alcançar meu sonho de ser um full stack developer
 
 <div align="center">
   <a href="https://github.com/PietroKucharski">
