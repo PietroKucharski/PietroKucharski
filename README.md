@@ -1,4 +1,4 @@
-### Olá me chamo Pietro Kucharski sou programador junior e estou em busca de alcançar meu sonho de ser um full stack developer
+### Hello, my name is Pietro Kucharski, I'm a junior programmer and I'm looking to achieve my dream of being a full stack developer
 
 <div align="center">
   <a href="https://github.com/PietroKucharski">
