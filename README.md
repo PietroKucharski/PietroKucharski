@@ -8,7 +8,7 @@
   <p>(React Native | Javascript | HTML | CSS | Typescript | Java | Python | Node JS )</p>
 </div>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/PietroKucharski">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block"><br>
