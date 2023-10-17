@@ -7,10 +7,10 @@
   <h2>My name is Pietro Kucharski, I'm a junior software developer💻</h2>
   <p>(React Native | Javascript | HTML | CSS | Typescript | Java | Python | Node JS | Nest JS )</p>
   <ul>
-    <li>👨🏾‍💻Software Enginner</li>
-    <li>👩🏾‍🎓Big Data and Analytical Intelligence Student</li>
-    <li>💻Passionate about development</li>
-    <li>💡I like to be challenged</li>
+    <li>👨🏾‍💻 Software Enginner</li>
+    <li>👩🏾‍🎓 Big Data and Analytical Intelligence Student</li>
+    <li>💻 Passionate about development</li>
+    <li>💡 I like to be challenged</li>
   </ul>
 </div>
 
