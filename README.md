@@ -13,7 +13,7 @@
     <li>💡I like to be challenged</li>
   </ul>
 </div>
-<div  style="display: flex">
+<div  style="display: block_inline">
   <a href="https://github.com/PietroKucharski">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
   <img align="center" alt="Pietro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
