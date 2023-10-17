@@ -1,7 +1,7 @@
-### Hello, my name is Pietro Kucharski, I'm a junior programmer and I'm looking to achieve my dream of being a full stack developer
-
 <div>
-  <h1>Ola</h1>
+  <h1>Hello, welcome to my profile💻</h1>
+  <h2>My name is Pietro Kucharski, I'm a junior programmer</h2>
+  <p>(React Native | Javascript | HTML | CSS | Typescript | Java | Python | Node JS )</p>
 </div>
 
 <div align="center">
