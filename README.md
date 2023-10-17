@@ -6,6 +6,12 @@
   <a href = "mailto:pietrokucharski@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank"></a>
   <h2>My name is Pietro Kucharski, I'm a junior programmer</h2>
   <p>(React Native | Javascript | HTML | CSS | Typescript | Java | Python | Node JS )</p>
+  <ul>
+    <li>👨🏾‍💻Software Enginner</li>
+    <li>👩🏾‍🎓Big Data and Analytical Intelligence Student</li>
+    <li>💻Passionate about development</li>
+    <li>💡I like to be challenged</li>
+  </ul>
 </div>
 <div align="center">
   <a href="https://github.com/PietroKucharski">
