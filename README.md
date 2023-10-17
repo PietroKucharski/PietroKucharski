@@ -1,5 +1,9 @@
 ### Hello, my name is Pietro Kucharski, I'm a junior programmer and I'm looking to achieve my dream of being a full stack developer
 
+<div>
+  <h1>Ola</h1>
+</div>
+
 <div align="center">
   <a href="https://github.com/PietroKucharski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
@@ -12,11 +16,8 @@
   <img align="center" alt="Pietro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pietro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pietro-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-</div>  
-
+</div>
 ##
-  
-  
 <div>
   <a href="https://instagram.com/pi_kucharski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kucharskipietro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
