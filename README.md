@@ -27,6 +27,5 @@
     <img align="center" alt="Pietro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </div><br>
   <a href="https://github.com/PietroKucharski">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKucharski&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
