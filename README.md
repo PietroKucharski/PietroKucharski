@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/pietro-kucharski-4b624b1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pietrokucharski@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank"></a>
   <h2>My name is Pietro Kucharski, I'm a junior backend developer💻</h2>
-  <p>(React Native | Javascript | HTML | CSS | Typescript | Java | Python | Node JS | Nest JS)</p>
+  <p>(React Native | Javascript | HTML | CSS | Typescript | Java | Python | Node JS | Nest JS | SpringBoot)</p>
   <ul>
     <li>👨🏾‍💻 Backend Developer</li>
     <li>👩🏾‍🎓 Big Data and Analytical Intelligence Student</li>
